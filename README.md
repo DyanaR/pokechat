@@ -7,4 +7,4 @@
 * [dhr7713@mavs.uta.edu]
 
 ## App Walkthrough
-[!(https://img.youtube.com/vi/EBKr7qxqgEk/0.jpg)](https://www.youtube.com/watch?v=EBKr7qxqgEk)
+[![Watch the demo](https://img.youtube.com/vi/EBKr7qxqgEk/0.jpg)](https://www.youtube.com/watch?v=EBKr7qxqgEk)
