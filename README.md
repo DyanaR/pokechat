@@ -5,6 +5,6 @@
 * [Dyana Rahhal]
 * [1001397713]
 * [dhr7713@mavs.uta.edu]
-* [Cats]
 
-* [Video Submission URL -- make sure permissions are open]
+## App Walkthrough
+[!(https://img.youtube.com/vi/EBKr7qxqgEk/0.jpg)](https://www.youtube.com/watch?v=EBKr7qxqgEk)
